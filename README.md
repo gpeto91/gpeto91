@@ -1,4 +1,6 @@
-### Hi there 👋
+### :star: Welcome :star:
+
+I'm Gabriel Azevedo, a 29 years old front end developer from Brazil. Feel free to check my profile!
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
