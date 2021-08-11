@@ -1,4 +1,4 @@
-<table><tr><td valign="center" width="50%">
+<table><tr><td valign="center" width="50%" border="0">
 
 # Hey you! 
 
@@ -10,7 +10,7 @@ I love playing games, listen to musics (Led Zep, my fav band) and one of my drea
   
 
 
-</td><td valign="center" width="50%">
+</td><td valign="center" width="50%" border="0">
 
 <img src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" align="left" height="300" width="" />  
 
@@ -63,11 +63,11 @@ I love playing games, listen to musics (Led Zep, my fav band) and one of my drea
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" border="0">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeto91&hide_border=true&layout=compact" align="left" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" border="0">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gpeto91&show_icons=true&count_private=true&hide_border=true" align="left" />
 
