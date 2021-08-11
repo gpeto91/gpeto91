@@ -7,9 +7,9 @@ I'm Gabriel Azevedo, a 29 years old front end developer from Brazil. Feel free t
 
 > 🏆 11 Contributions in the Year 2021
  > 
-> 📦 5.1 kB Used in Github's Storage 
+> 📦 5.2 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
