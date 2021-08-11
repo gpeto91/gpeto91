@@ -1,4 +1,4 @@
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 # Hey you! 
 
@@ -10,7 +10,7 @@ I love playing games, listen to musics (Led Zep, my fav band) and one of my drea
   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <img src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" align="left" height="300" width="" />  
 
@@ -73,6 +73,3 @@ I love playing games, listen to musics (Led Zep, my fav band) and one of my drea
 
 </td></tr></table>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
