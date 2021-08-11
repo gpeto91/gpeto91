@@ -63,11 +63,11 @@ I love playing games, listen to musics (Led Zep, my fav band) and one of my drea
 
 <br/>  
 
-<table><tr><td valign="top" width="50%" border="0">
+<table><tr><td valign="center" width="50%" border="0">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeto91&hide_border=true&layout=compact" align="left" />
 
-</td><td valign="top" width="50%" border="0">
+</td><td valign="center" width="50%" border="0">
 
 <img src="https://github-readme-stats.vercel.app/api?username=gpeto91&show_icons=true&count_private=true&hide_border=true" align="left" />
 
