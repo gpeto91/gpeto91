@@ -1,75 +1,78 @@
-### :star: Welcome :star:
+<table><tr><td valign="top" width="50%">
 
-I'm Gabriel Azevedo, a 29 years old front end developer from Brazil. Feel free to check my profile!
+# Hey you! 
 
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
+Welcome to my Github profile, stay confy. Here, take a cup of tea ☕
 
-> 🏆 11 Contributions in the Year 2021
- > 
-> 📦 5.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm a Night 🦉** 
+I'm Gabriel Azevedo, a 29 years old Front-End developer from Brazil. Before we get into the business, you may want to know a little about me. 
 
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-🌃 Evening    20 commits     ███████████░░░░░░░░░░░░░░   46.51% 
-🌙 Night      16 commits     █████████░░░░░░░░░░░░░░░░   37.21%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       8 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-Wednesday    8 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Thursday     4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Friday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Saturday     10 commits     █████░░░░░░░░░░░░░░░░░░░░   23.26% 
-Sunday       8 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.6%
-
-```
+I love playing games, listen to musics (Led Zep, my fav band) and one of my dreams is to own a motor home. Yes.
+  
 
 
-📊 **This Week I Spent My Time On** 
+</td><td valign="top" width="50%">
 
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            █████████████████░░░░░░░░   71.43% 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
+<img src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" align="left" height="300" width="" />  
 
 
-**Timeline**
+</td></tr></table>  
 
-![Chart not found](https://raw.githubusercontent.com/gpeto91/gpeto91/main/charts/bar_graph.png) 
+<br/>  
 
+## Tools I use to work  
+  
 
- Last Updated on 11/08/2021
-<!--END_SECTION:waka-->
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+</div>  
+
+## Tools I want to use  
+  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>  
+
+#### <div align="center">Where to find me</div>  
+  
+
+<div align="center">
+<a href="https://linkedin.com/in/https://linkedin.com/in/azevedo-gabriel" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/gpeto91" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/gpeto91" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeto91&hide_border=true&layout=compact" align="left" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gpeto91&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
