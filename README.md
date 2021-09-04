@@ -13,7 +13,7 @@ business, you may want to know a little about me.<br>
 
 I love playing games, listen to musics (Led Zep, my fav band)<br/>
 and one of my dreams is to own a motor home. Yes. Also, I love cats.<br/>
-Have one that counts for ten, called Toothless (female). Yeah, from the film :)
+I have one that counts as a ten, called Toothless (female). Yeah, from the film :)
 
 <br/>
 
