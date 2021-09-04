@@ -5,14 +5,15 @@
 
 # Hey you!
 
-Welcome to my Github profile, stay confy.<br/>
+Welcome to my Github profile, stay comfy!<br/>
 Here, take a cup of tea ☕<br/>
 I'm Gabriel Azevedo, a 29 years old Front-End<br/>
 developer from Brazil. Before we get into the<br/>
 business, you may want to know a little about me.<br>
 
 I love playing games, listen to musics (Led Zep, my fav band)<br/>
-and one of my dreams is to own a motor home. Yes.  
+and one of my dreams is to own a motor home. Yes. Also, I love cats.<br/>
+Have one that counts for ten, called Toothless (female). Yeah, from the film :)
 
 <br/>
 
