@@ -64,3 +64,6 @@ I have one worth for ten, called Toothless (female). Yeah, from the film :)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeto91&hide_border=true&layout=compact" height="150px" />  
   <img src="https://github-readme-stats.vercel.app/api?username=gpeto91&show_icons=true&count_private=true&hide_border=true" height="150px" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
