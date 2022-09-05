@@ -61,41 +61,7 @@ I have one worth for ten, called Toothless (female). Yeah, from the film :)
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2032%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
-🌆 Daytime    357 commits    ██████████████░░░░░░░░░░░   55.61% 
-🌃 Evening    153 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
-🌙 Night      18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
-Tuesday      162 commits    ██████░░░░░░░░░░░░░░░░░░░   25.23% 
-Wednesday    151 commits    ██████░░░░░░░░░░░░░░░░░░░   23.52% 
-Thursday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Saturday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-Sunday       17 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I Mostly Code in TypeScript** 
 
@@ -110,5 +76,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 02:12:28 UTC
+ Last Updated on 05/09/2022 02:23:20 UTC
 <!--END_SECTION:waka-->
