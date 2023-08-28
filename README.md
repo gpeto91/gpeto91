@@ -61,7 +61,7 @@ I have one worth for ten, called Toothless (female). Yeah, from the film :)
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2046%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -88,11 +88,11 @@ Sunday                   1252 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 19 mins       ███████████████████████░░   91.93 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+TypeScript               8 hrs 31 mins       ████████████████████████░   95.06 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +108,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2023 01:10:59 UTC
+ Last Updated on 28/08/2023 01:08:38 UTC
 <!--END_SECTION:waka-->
