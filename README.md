@@ -61,7 +61,7 @@ I have one worth for ten, called Toothless (female). Yeah, from the film :)
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C842%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C842%20hrs%2037%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -109,5 +109,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2023 01:13:53 UTC
+ Last Updated on 14/12/2023 01:12:48 UTC
 <!--END_SECTION:waka-->
