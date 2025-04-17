@@ -1,111 +1,56 @@
-<div align="right">
-<img src="https://media.giphy.com/media/l46CbZ7KWEhN1oci4/giphy.gif" align="right" height="300" width="" />
-</div>  
-  
+<h1 align="center">Gabriel Azevedo</h1>
 
-# Hey you!
+<p align="center">
+  <b>Desenvolvedor Front-end | React & TypeScript</b><br />
+  Transformando ideias em interfaces performáticas e elegantes.
+</p>
 
-Welcome to my Github profile, stay comfy!<br/>
-Here, take a cup of tea ☕<br/>
-I'm Gabriel Azevedo, a 29 years old Front-End<br/>
-developer from Brazil. Before we get into the<br/>
-business, you may want to know a little about me.<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/azevedo-gabriel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gpeto91@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I love playing games, listen to musics (Led Zep, my fav band)<br/>
-and one of my dreams is to own a motor home. Yes. Also, I love cats.<br/>
-I have one worth for ten, called Toothless (female). Yeah, from the film :)
+---
 
-<br/>
+### 🚀 Sobre
 
-## <div align="center">Skills</div>  
-  
+Sou um desenvolvedor front-end com mais de 10 anos de experiência, especializado em **React, TypeScript e interfaces escaláveis**. Apaixonado por performance, arquitetura de componentes e design system.
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /><br/>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /><br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div>  
+- 🎯 Foco em **clean code**, **UX** e **acessibilidade**
+- 📦 Familiaridade com ferramentas modernas como **Next.js**, **Tailwind**, **React Native** e **Zustand**
+- 🎮 Fã de jogos imersivos e experiências interativas
 
-## <div align="center">Learning</div>  
-  
+---
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>  
-
-## <div align="center">Where to find me</div>  
-  
+### 🛠️ Stack principal
 
 <div align="center">
-<a href="https://linkedin.com/in/https://linkedin.com/in/azevedo-gabriel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://dev.to/gpeto91" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/gpeto91" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C078%20hrs%2030%20mins-blue)
+---
 
-**I'm an Early 🐤** 
+### 📊 GitHub Stats
 
-```text
-🌞 Morning                12170 commits       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-🌆 Daytime                27468 commits       ████████████████░░░░░░░░░   62.70 % 
-🌃 Evening                3573 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-🌙 Night                  596 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-```
-📅 **I'm Most Productive on Friday** 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gpeto91&show_icons=true&theme=tokyonight&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpeto91&layout=compact&theme=tokyonight" height="150" />
+</div>
 
-```text
-Monday                   6545 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Tuesday                  9181 commits        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Wednesday                7732 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Thursday                 8257 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Friday                   9734 commits        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Saturday                 1102 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Sunday                   1256 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-```
+---
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               25 repos            ██████████████░░░░░░░░░░░   56.82 % 
-JavaScript               14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-```
-
-
-
-
- Last Updated on 17/04/2025 00:29:13 UTC
-<!--END_SECTION:waka-->
+<div align="center">
+  <sub>
+    “Interfaces moldam experiências. Código molda o invisível.”
+  </sub>
+</div>
