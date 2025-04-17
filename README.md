@@ -49,8 +49,5 @@ Sou um desenvolvedor front-end com mais de 10 anos de experiência, especializad
 
 ---
 
-<div align="center">
-  <sub>
-    “Interfaces moldam experiências. Código molda o invisível.”
-  </sub>
-</div>
+> “Talk is cheap. Show me the code.”  
+> — *Linus Torvalds*
